@@ -1,0 +1,12 @@
+/*
+** EPITECH PROJECT, 2018
+** grep
+** File description:
+** 
+*/
+
+#include "../include/my.h"
+#include <sys/type.h>
+#include <sys/stat.h>
+#include <fcntl.h>
+#include <errno.h>

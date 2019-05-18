@@ -1,0 +1,8 @@
+looneytised.sh
+
+Write a script that take the output of a "cat passwd" and replaces:
+- every ‘theo1’ by ‘Wile E. Coyote’
+- every ‘steven1’ by ‘Daffy Duck’
+- every ‘arnaud1’ by ‘Porky Pig’
+- every ‘pierre-jean’ by ‘Marvin the Martian’
+Furthermore, this command should only display the lines mentionning a toon.
