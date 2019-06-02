@@ -1,6 +1,6 @@
-Projets de piscine Tek 1 Epitech
+# Projets de piscine Tek 1 Epitech
 
-Tous les sujets des projets sont disponibles dans leurs dossiers respectifs.
+#### Tous les sujets des projets sont disponibles dans leurs dossiers respectifs.
 
 
 Durant un mois, nous avons tous été plongés dans le langage C et l’environnement Linux. En effet, chaque jours nous avions des « mini projets » que nous devions rendre avant le lendemain à 23h42.
