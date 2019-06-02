@@ -1,4 +1,4 @@
-#Projets de piscine Tek 1 Epitech
+Projets de piscine Tek 1 Epitech
 
 Tous les sujets des projets sont disponibles dans leurs dossiers respectifs.
 
